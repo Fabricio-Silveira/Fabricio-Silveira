@@ -21,8 +21,29 @@
       alig="left"
       alt="C#"
       title="C#"
-      width="50px"
+      width="60px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-  />  
+  />
+          <img 
+      alig="left"
+      alt="C#"
+      title="C#"
+      width="60px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+  />
+   <br/>
+   <br/>
+
+### 📊Estatísticas
 
 
+ 
+ ![fabricio GitHub status](https://github-readme-stats.vercel.app/api?username=fabriciosilveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+ 
+
+
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciosilveira&layout=donut&theme=tokyonight&locale=pt-br&langs_count=9)](https://github.com/fabriciosilveira/github-readme-stats)
+
+
+>
