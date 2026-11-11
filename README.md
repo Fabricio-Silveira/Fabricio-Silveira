@@ -3,10 +3,6 @@
  Me Chamo Fabricio, tenho 16 anos, sou natural da paraíba, atualmente estou cursando o ensino médio, por agora trabalhando em um projeto para gameDev, tenho meu canal no Youtube chamado "[BetaHL](https://www.youtube.com/@BetaHL)" onde gravo gameplays e dou dicas.
 
   <p alig="left">
-      <a href="https://www.youtube.com/@BetaHL">
-         <img alt="Youtube Inscritos" title="Inscreva-se" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzJq9AHqtU5NcN5pdAr-_9g?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@BetaHL">
-         <img alt="youtube views" title="Minhas Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzJq9AHqtU5NcN5pdAr-_9g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/Fabricio-Silveira">
          <img alt="Seguidores" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/fabriciosilveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=seguidores&logoColor=white"/></a>
       <a href="https://github.com/Fabricio-Silveira?tab=repositories&sort=stargazers">
@@ -24,13 +20,7 @@
       width="60px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
   />
-          <img 
-      alig="left"
-      alt="Java"
-      title="Java"
-      width="60px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-  />
+      
    <br/>
    <br/>
 
