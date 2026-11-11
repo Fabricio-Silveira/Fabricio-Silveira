@@ -1,6 +1,6 @@
 # 👨‍💻Fabricio Silveira
  
- Me Chamo Fabricio, tenho 16 anos, sou natural da paraíba, atualmente estou cursando o ensino médio, por agora trabalhando em um projeto para gameDev, tenho meu canal no Youtube chamado "[BetaHL](https://www.youtube.com/@BetaHL)" onde gravo gameplays e dou dicas.
+ Me Chamo Fabricio, tenho 16 anos, sou natural da paraíba, atualmente estou cursando o ensino médio, por agora trabalhando em uma empresa de desenvolvimento de jogos digitais.
 
   <p alig="left">
       <a href="https://github.com/Fabricio-Silveira">
